@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @janetinadoe
+- 👀 I’m interested in test automation and software engineering
+- 🌱 I’m currently learning manual testing, test automation and different programming languages.
